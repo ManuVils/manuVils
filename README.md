@@ -9,25 +9,19 @@
 <br>
 <br>
 <br>
-<div style="margin-bottom:3em">
+<div>
     <img src="Resources/connect.png" width="300">
 </div>
 <div>
-    <div style="display: inline-block; margin-right: 20px;">
-        <a href="mailto:iamvilares@gmail.com">
+    <a href="mailto:iamvilares@gmail.com">
             <img src="Resources/gmailwhite.png" width="50">
         </a>
-    </div>
-    <div style="display: inline-block; margin-right: 20px;">
-        <a href="https://www.linkedin.com/in/edvrodrigues/">
-            <img src="Resources/lkdnwhite.png" width="43">
-        </a>
-    </div>
-    <div style="display: inline-block;">
-        <a href="https://www.iamvilares.com/">
-            <img src="Resources/logowhite.png" width="43">
-        </a>
-    </div>
+    <a href="https://www.linkedin.com/in/edvrodrigues/">
+        <img src="Resources/lkdnwhite.png" width="43">
+    </a>
+    <a href="https://www.iamvilares.com/">
+        <img src="Resources/logowhite.png" width="43">
+    </a>
 </div>
 <br>
 <br>
@@ -39,30 +33,30 @@
 <h2>💻 Programming Languages</h2>
 <br>
 <div>
-    <img src="Resources/java.png" width="80" style="margin-right:20px">
-    <img src="Resources/js.png" width="80" style="margin-right:20px">
-    <img src="Resources/html.png" width="80" style="margin-right:20px">
-    <img src="Resources/css.png" width="80" style="margin-right:20px">
+    <img src="Resources/java.png" width="60" style="margin-right:20px">
+    <img src="Resources/js.png" width="60" style="margin-right:20px">
+    <img src="Resources/html.png" width="60" style="margin-right:20px">
+    <img src="Resources/css.png" width="60" style="margin-right:20px">
 </div>
 <br>
 <h2>🚀 Tools</h2>
 <br>
 <br>
 <div>
-    <img src="Resources/bootstrap.png" width="80" style="margin-right:20px">
-    <img src="Resources/jquery.png" width="80" style="margin-right:20px">
-    <img src="Resources/spring.png" width="80" style="margin-right:20px">
-    <img src="Resources/maven.png" width="80" style="margin-right:20px">
-    <img src="Resources/sql.png" width="80" style="margin-right:20px">
+    <img src="Resources/bootstrap.png" width="60" style="margin-right:20px">
+    <img src="Resources/jquery.png" width="60" style="margin-right:20px">
+    <img src="Resources/spring.png" width="60" style="margin-right:20px">
+    <img src="Resources/maven.png" width="60" style="margin-right:20px">
+    <img src="Resources/sql.png" width="60" style="margin-right:20px">
 </div>
 <br>
 <br>
 <div>
-    <img src="Resources/postman.png" width="80" style="margin-right:20px">
-    <img src="Resources/vim.png" width="80" style="margin-right:20px">
-    <img src="Resources/git.png" width="80" style="margin-right:20px">
-    <img src="Resources/vscode.png" width="80" style="margin-right:20px">
-    <img src="Resources/intellij.png" width="80" style="margin-right:20px">
+    <img src="Resources/postman.png" width="60" style="margin-right:20px">
+    <img src="Resources/vim.png" width="60" style="margin-right:20px">
+    <img src="Resources/git.png" width="60" style="margin-right:20px">
+    <img src="Resources/vscode.png" width="60" style="margin-right:20px">
+    <img src="Resources/intellij.png" width="60" style="margin-right:20px">
 </div>
 
 <!--
