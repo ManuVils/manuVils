@@ -1,6 +1,6 @@
 <img src="">
 
-<img src="Resources/namehorizontal.png" align="center" width="300">
+<img src="Resources/namehorizontal.png" align="center" width="500">
 
 **`Junior Full-Stack Developer / Graphic Designer`**
 
