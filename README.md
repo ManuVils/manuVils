@@ -9,9 +9,7 @@ Welcome to my GitHub profile where you'll see my journey as I learn and carve my
 ## 📫 Reach me
 
 
-
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <details>
  <summary><h3>⛰️ Manu's Coding Journey</h3></summary>
