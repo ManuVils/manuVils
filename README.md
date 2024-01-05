@@ -2,7 +2,7 @@
 
 **`Junior Full-Stack Developer / Graphic Designer`**
 
-Welcome to my GitHub profile where you'll see my exciting journey as I learn and carve my path into the world of Full-Stack Programming.
+Welcome to my GitHub profile where you'll see my journey as I learn and carve my path into the world of Full-Stack Programming.
 
 ---
 
@@ -15,7 +15,7 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
 
 ### 📜 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=light&width=30)](https://skillicons.dev)
 
 #
 
