@@ -26,11 +26,13 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
     <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </p>
 </details>
-<br>
-<br>
+
 ## 🚀 Tech Stack
 
 ### 🧰 Languages and Tools
+
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman,idea,vscode&theme=light)](https://skillicons.dev)
 
