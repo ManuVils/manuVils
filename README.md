@@ -14,11 +14,14 @@
 ## 📫 Reach me
 <div align="center">
 
-[<img src="Resources/mailyellow.png" width="50" style="padding-right:20" alt="Mail Icon">](mailto:iamvilares@gmail.com)
-[<img src="Resources/lkdnyellow.png" width="40" alt="LinkedIn Icon">](https://www.linkedin.com/in/edvrodrigues/)
-[<img src="Resources/logoyellow.png" width="43" alt="Logo Icon">](https://www.iamvilares.com/)
+  [<img src="Resources/mailyellow.png" width="50" alt="Mail Icon">](mailto:iamvilares@gmail.com)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="Resources/lkdnyellow.png" width="40" alt="LinkedIn Icon">](https://www.linkedin.com/in/edvrodrigues/)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="Resources/logoyellow.png" width="43" alt="Logo Icon">](https://www.iamvilares.com/)
 
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
