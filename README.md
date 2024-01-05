@@ -1,5 +1,3 @@
-
-
 <img src="Resources/top.jpg">
 <br>
 <br>
@@ -11,18 +9,17 @@
 **`Junior Full-Stack Developer / Graphic Designer`**
 
 
-
 ### Welcome to my GitHub profile where you'll see my journey as I learn and carve my path into the world of Full-Stack Programming.
 
 ## 📫 Reach me
-<a href="">
-<img src="Resources/mailyellow.png" width="50">
+<a href="mailto:iamvilares@gmail.com">
+<img style="padding-right:10px;" src="Resources/mailyellow.png" width="50">
 </a>
-<a href="">
-<img src="Resources/lkdnyellow.png" width="40">
+<a href="https://www.linkedin.com/in/edvrodrigues/">
+<img style="padding-right:10px;" src="Resources/lkdnyellow.png" width="40">
 </a>
-<a href="">
-<img src="Resources/logoyellow.png" width="43">
+<a href="https://www.iamvilares.com/">
+<img style="padding-right:10px;" src="Resources/logoyellow.png" width="43">
 </a>
 
 
