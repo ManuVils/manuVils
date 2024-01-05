@@ -16,11 +16,16 @@ Welcome to my GitHub profile where you'll see my exciting journey as I learn and
 
 [![My Skills](https://skillicons.dev/icons?i=spring,nodejs,jquery,bootstrap,mysql,git,maven,postman&theme=light)](https://skillicons.dev)
 
+#
 
 ### 📺 IDEs
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://skillicons.dev)
 
+#
+
 ### 🎨 Design
 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,sketchup,figma&theme=light)](https://skillicons.dev)
+
+#
