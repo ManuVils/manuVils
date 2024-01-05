@@ -15,7 +15,7 @@ Welcome to my GitHub profile where you'll see my journey as I learn and carve my
  <img src="Resources/lkdnwhite.png" margin-right="20">
 </a>
 <a href="">
- <img src="Resources/logowhite.png" margin-right="20">
+ <img src="Resources/logowhite.png" margin-right="20" width="50">
 </a>
 
 
