@@ -11,6 +11,9 @@
 
 ### Welcome to my GitHub profile where you'll see my journey as I learn and carve my path into the world of Full-Stack Programming.
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 ## 📫 Reach me
 <div align="center">
 
@@ -22,7 +25,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 
 <details>
  <summary><h2>⛰️ My Coding Journey</h2></summary>
