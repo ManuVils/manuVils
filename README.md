@@ -6,9 +6,15 @@ Welcome to my GitHub profile where you'll see my exciting journey as I learn and
 
 ---
 
-### 🧰 LANGUAGES and TOOLS
+### ⛰️ LANGUAGES
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
+
+#
+
+### 🧰 TOOLS
+
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,jquery,bootstrap,mysql,git,maven,postman)](https://skillicons.dev)
 
 #
 
