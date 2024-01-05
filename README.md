@@ -1,4 +1,4 @@
-<img width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img src="Resources/top.jpg">
 
 <img src="Resources/namehorizontal.png" align="center" width="500">
 
@@ -37,4 +37,4 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
 
 #
 
-
+<img src="Resources/down.jpg">
