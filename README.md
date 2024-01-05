@@ -15,7 +15,7 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
 
 ### 📜 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=light&width=30)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=light&width=15)](https://skillicons.dev)
 
 #
 
