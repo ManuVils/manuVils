@@ -1,7 +1,9 @@
-<div style="text-align: center;">
-    <img src="Resources/top.jpg">
-    <img src="Resources/namehorizontal.png" width="500">
-</div>
+
+
+<img src="Resources/top.jpg">
+<br>
+<br>
+<img src="Resources/namehorizontal.png" width="500">
 
 **`Junior Full-Stack Developer / Graphic Designer`**
 
