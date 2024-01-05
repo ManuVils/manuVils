@@ -8,30 +8,19 @@ Welcome to my GitHub profile where you'll see my exciting journey as I learn and
 
 ### 🧰 LANGUAGES and TOOLS
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman)](https://skillicons.dev)
 
 #
 
 ### 📺 IDEs
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
 
 #
 
 ### 🎨 DESIGN
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,ps,sketchup,figma" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,sketchup,figma)](https://skillicons.dev)
 
 #
+
