@@ -13,7 +13,7 @@ Welcome to my GitHub profile where you'll see my exciting journey as I learn and
 
 ### 🧰 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,jquey,bootstrap,mysql,git,maven,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,jquery,bootstrap,mysql,git,maven,postman&theme=light)](https://skillicons.dev)
 
 ### 📺 IDEs
 
