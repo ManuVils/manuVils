@@ -1,4 +1,4 @@
-<img src="">
+<img src="https://media2.giphy.com/media/ko7twHhomhk8E/200w.webp?cid=ecf05e47mva628kdvgfm6rmr3xr8kw7d64s5u80jf94fed4f&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
 <img src="Resources/namehorizontal.png" align="center" width="500">
 
