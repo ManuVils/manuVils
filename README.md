@@ -28,23 +28,23 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
 </details>
 
 
-#
+<br>
 
 ## 🚀 Tech Stack
 
 ### 🧰 Languages and Tools
-
+<br>
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman,idea,vscode&theme=light)](https://skillicons.dev)
 
 
 ### 🎨 Design
-
+<br>
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,sketchup,figma&theme=light)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ### ⚡️ Stats
-
+<br>
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuvils&show_icons=true&theme=github_dark)
 
 #
