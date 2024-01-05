@@ -15,9 +15,9 @@
 ### Welcome to my GitHub profile where you'll see my journey as I learn and carve my path into the world of Full-Stack Programming.
 
 ## 📫 Reach me
-<img src="Resources/gmailyellow.png">
-<img src="Resources/lkdnyellow.png">
-<img src="Resources/logoyellow.png">
+<img src="Resources/mailyellow.png" width="50">
+<img src="Resources/lkdnyellow.png" width="40">
+<img src="Resources/logoyellow.png" width="43">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
