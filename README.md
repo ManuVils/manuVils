@@ -7,7 +7,10 @@
     <img src="Resources/namehorizontal.png" alt="Name Image" width="500">
 </p>
 
-**`Junior Full-Stack Developer / Graphic Designer`**
+<p align="center">
+    **`Junior Full-Stack Developer / Graphic Designer`**
+</p>
+
 
 Welcome to my GitHub profile where you'll see my journey as I learn and carve my path into the world of Full-Stack Programming.
 
