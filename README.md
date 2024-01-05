@@ -20,13 +20,7 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman&theme=light)](https://skillicons.dev)
-
-#
-
-### 📺 IDEs
-
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman,idea,vscode&theme=light)](https://skillicons.dev)
 
 #
 
