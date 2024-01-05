@@ -30,12 +30,10 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
 ## 🚀 Tech Stack
 
 ### 🧰 Languages and Tools
-
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman,idea,vscode&theme=light)](https://skillicons.dev)
-
+<br>
+<p>
+    [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman,idea,vscode&theme=light)](https://skillicons.dev)
+</p>
 
 ### 🎨 Design
 
