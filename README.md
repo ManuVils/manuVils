@@ -6,7 +6,7 @@ Welcome to my GitHub profile where you'll see my exciting journey as I learn and
 
 ---
 
-### ⛰️ LANGUAGES
+### 📜 LANGUAGES
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=light)](https://skillicons.dev)
 
@@ -30,8 +30,12 @@ Welcome to my GitHub profile where you'll see my exciting journey as I learn and
 
 #
 
+### ⛰️ Coding Journey
+
 ### 📊 Stats
 
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuvils&show_icons=true&theme=github_dark)
 
 #
+
+
