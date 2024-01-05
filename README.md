@@ -14,7 +14,7 @@ Welcome to my GitHub profile where you'll see my exciting journey as I learn and
 
 ### 🧰 TOOLS
 
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,jquery,bootstrap,mysql,git,maven,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,jquery,bootstrap,mysql,git,maven,postman&perline=4&theme=light)](https://skillicons.dev)
 
 #
 
