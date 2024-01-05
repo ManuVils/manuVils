@@ -8,7 +8,7 @@ Welcome to my GitHub profile where you'll see my exciting journey as I learn and
 
 ### ⛰️ LANGUAGES
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=light)](https://skillicons.dev)
 
 #
 
@@ -20,13 +20,13 @@ Welcome to my GitHub profile where you'll see my exciting journey as I learn and
 
 ### 📺 IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://skillicons.dev)
 
 #
 
 ### 🎨 DESIGN
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,sketchup,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,sketchup,figma&theme=light)](https://skillicons.dev)
 
 #
 
