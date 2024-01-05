@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Emanuel Rodrigues</h1> 
 
-<p style="text-align: center; font-style: italic;">Junior Full-Stack Developer / Graphic Designer</p>
+**`Junior Full-Stack Developer / Graphic Designer`**
 
 Welcome to my GitHub profile where you'll see my journey as I learn and carve my path into the world of Full-Stack Programming.
 
