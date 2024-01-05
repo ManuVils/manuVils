@@ -1,9 +1,8 @@
 
-
-<img src="Resources/top.jpg">
-<br>
-<br>
-<img src="Resources/namehorizontal.png" width="500">
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="Resources/top.jpg">
+    <img src="Resources/namehorizontal.png" width="500">
+</div>
 
 **`Junior Full-Stack Developer / Graphic Designer`**
 
