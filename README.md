@@ -38,12 +38,11 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-## 🚀 Tech Stack
-### 🧰 Languages and Tools
+## 🚀 Languages and Tools
  [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman,idea,vscode,ai,ps,sketchup,figma)](https://skillicons.dev)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 &nbsp;&nbsp;&nbsp;&nbsp;
-### ⚡️ Stats
+## ⚡️ Stats
 
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuvils&show_icons=true&theme=github_dark)
 
