@@ -1,4 +1,4 @@
-# 🚀 Emanuel Rodrigues
+<h1 align="center">🚀 Emanuel Rodrigues</h1> 
 
 **`Junior Full-Stack Developer / Graphic Designer`**
 
@@ -15,7 +15,7 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
 
 ### 📜 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=light&width=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=light)](https://skillicons.dev)
 
 #
 
