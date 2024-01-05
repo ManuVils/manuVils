@@ -14,7 +14,7 @@
 ## 📫 Reach me
 <div align="center">
 
-[<img src="Resources/mailyellow.png" width="50" alt="Mail Icon">](mailto:iamvilares@gmail.com)
+[<img src="Resources/mailyellow.png" width="50" style="padding-right:20" alt="Mail Icon">](mailto:iamvilares@gmail.com)
 [<img src="Resources/lkdnyellow.png" width="40" alt="LinkedIn Icon">](https://www.linkedin.com/in/edvrodrigues/)
 [<img src="Resources/logoyellow.png" width="43" alt="Logo Icon">](https://www.iamvilares.com/)
 
