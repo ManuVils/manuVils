@@ -6,21 +6,11 @@ Welcome to my GitHub profile where you'll see my exciting journey as I learn and
 
 ---
 
-### ⛰️ LANGUAGES
+### 🧰 LANGUAGES and TOOLS
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-  </a>
-</p>
-
-#
-
-### 🧰 TOOLS
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,jquery,bootstrap,mysql,git,maven,postman" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman" />
   </a>
 </p>
 
