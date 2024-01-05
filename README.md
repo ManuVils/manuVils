@@ -28,11 +28,11 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
 
 ### 🧰 Languages and Tools
 
- [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman,idea,vscode&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman,idea,vscode)](https://skillicons.dev)
 
 ### 🎨 Design
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,sketchup,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,sketchup,figma)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
