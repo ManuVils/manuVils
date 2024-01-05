@@ -12,15 +12,13 @@
 ### Welcome to my GitHub profile where you'll see my journey as I learn and carve my path into the world of Full-Stack Programming.
 
 ## 📫 Reach me
-<a href="mailto:iamvilares@gmail.com">
-<img style="padding-right:10px;" src="Resources/mailyellow.png" width="50">
-</a>
-<a href="https://www.linkedin.com/in/edvrodrigues/">
-<img style="padding-right:10px;" src="Resources/lkdnyellow.png" width="40">
-</a>
-<a href="https://www.iamvilares.com/">
-<img style="padding-right:10px;" src="Resources/logoyellow.png" width="43">
-</a>
+<div align="center">
+
+[<img src="Resources/mailyellow.png" width="50" alt="Mail Icon">](mailto:iamvilares@gmail.com)
+[<img src="Resources/lkdnyellow.png" width="40" alt="LinkedIn Icon">](https://www.linkedin.com/in/edvrodrigues/)
+[<img src="Resources/logoyellow.png" width="43" alt="Logo Icon">](https://www.iamvilares.com/)
+
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
