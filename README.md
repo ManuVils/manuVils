@@ -43,6 +43,12 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+## 🎓 Currently Learning
+ [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## ⚡️ Stats
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuvils&show_icons=true&theme=github_dark)
 
