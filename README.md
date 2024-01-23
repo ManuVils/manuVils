@@ -6,7 +6,8 @@
 </p>
 
 
-**`Junior Full-Stack Developer / Graphic Designer`** ![](https://komarev.com/ghpvc/?username=ManuVils&color=blue)
+**`Junior Full-Stack Developer / Graphic Designer`** 
+![](https://komarev.com/ghpvc/?username=ManuVils&color=blue)
 
 
 
@@ -53,7 +54,7 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
 
 ## ⚡️ Stats
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuvils&show_icons=true&theme=github_dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuVils&layout=compact&theme=radical)](https://github.com/ManuVils)
 #
 
 <img src="Resources/down.jpg">
