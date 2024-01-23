@@ -8,6 +8,8 @@
 
 **`Junior Full-Stack Developer / Graphic Designer`**
 
+![](https://komarev.com/ghpvc/?username=ManuVils&color=blue)
+
 
 ### Welcome to my GitHub profile where you'll see my journey as I learn and carve my path into the world of Full-Stack Programming.
 &nbsp;&nbsp;&nbsp;&nbsp;
