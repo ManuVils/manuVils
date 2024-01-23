@@ -7,6 +7,7 @@
 
 
 **`Junior Full-Stack Developer / Graphic Designer`** 
+
 ![](https://komarev.com/ghpvc/?username=ManuVils&color=blue)
 
 
