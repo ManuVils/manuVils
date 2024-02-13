@@ -14,7 +14,7 @@
 
 
 ### Welcome to my GitHub profile where you'll see my journey as I learn and carve my path into the world of Full-Stack Programming.
-#### <a href="https://drive.google.com/file/d/1HSYUpshFX3ZPHplIB1RDRhV48iNFEMkN/view?usp=drive_link">📄 Discover my path thus far! 📄</a>
+#### <a href="https://drive.google.com/file/d/1HSYUpshFX3ZPHplIB1RDRhV48iNFEMkN/view?usp=drive_link" target="_blank">📄 Discover my path thus far! 📄</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
