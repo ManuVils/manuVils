@@ -14,20 +14,6 @@
 
 
 ### Welcome to my GitHub profile where you'll see my journey as I learn and carve my path into the world of Full-Stack Programming.
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-## 📫 Reach me
-<div align="center">
-
-  [<img src="Resources/mailyellow.png" width="50" alt="Gmail Icon">](mailto:iamvilares@gmail.com)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [<img src="Resources/lkdnyellow.png" width="40" alt="LinkedIn Icon">](https://www.linkedin.com/in/edvrodrigues/)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [<img src="Resources/logoyellow.png" width="43" alt="Portfolio Icon">](https://www.iamvilares.com/)
-
-</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
