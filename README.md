@@ -37,7 +37,7 @@ So welcome to my GitHub profile and my journey into a Full-Stack Developer!!!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🚀 Languages and Tools
- [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman,idea,vscode,ai,ps,sketchup,figma)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,nodejs,jquery,bootstrap,mysql,git,maven,postman,figma)](https://skillicons.dev)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
