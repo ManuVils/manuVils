@@ -17,6 +17,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+[View my CV]{{< ref "cv.md" >}}
+{{% staticref "[files/cv.pd](https://drive.google.com/file/d/1HSYUpshFX3ZPHplIB1RDRhV48iNFEMkN/view?usp=drive_link)f" %}}Download my CV{{% /staticref %}}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <details>
  <summary><h2>⛰️ My Coding Journey</h2></summary>
 I began my coding journey in college, as a multimedia student. I was pretty excited, even before starting. However, things took a turn for the worst, and shortly after starting learning, I discovered that coding wasn't for me... at the time.
