@@ -48,7 +48,7 @@ I began my coding journey in college, as a multimedia student. It was mainly fro
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🎓 Currently Learning
- [![My Skills](https://skillicons.dev/icons?i=python,docker,cs,angular)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,python,docker,cs,angular)](https://skillicons.dev)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
