@@ -6,7 +6,7 @@
 </p>
 
 
-**`Junior Full-Stack Developer / Graphic Designer`** 
+**`Junior Full-Stack Developer`** 
 
 ![](https://komarev.com/ghpvc/?username=ManuVils&color=blue)
 
