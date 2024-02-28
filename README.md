@@ -20,7 +20,7 @@
 
 
 <details>
- <summary><h2>⛰️ My Coding Journey</h2></summary>
+<summary><h2>⛰️ My Coding Journey</h2></summary>
 I began my coding journey in college, as a multimedia student. I was pretty excited, even before starting. However, things took a turn for the worst, and shortly after starting learning, I discovered that coding wasn't for me... at the time.
 <br><br>
 So I moved on to other realms of multimedia and ended up as a Graphic Designer. After some time, I've noticed that it wasn't for me either as I wanted more. So I needed a career change and coding started to appear on the back of my mind.
